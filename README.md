@@ -2,11 +2,10 @@
 
 - bin：CRYPTO-SCOUT package file
 - bytecode：test case
-- ethereum: ethereum client
+- ethereum.7z: ethereum client
 - plugin: P3、P4、P5 plugins
 - tools：dependency tools
   - evm_v1.8.15
-  - jdk-8u221-linux-x64.tar.gz
 
 # Usage
 
